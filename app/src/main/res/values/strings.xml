@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission Android Jetpack Pro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+    <string name="description">Description</string>
+    <string name="watch">Watch IT</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="settings">Settings</string>
+    <string name="no_fav">Anda Belum menambahkan Favorite</string>
+    <string name="fav_movie">Favorite Movie</string>
+    <string name="fav_show">Favorite Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tv_show">Favorite Tv Show</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_data">NO data</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1135" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1135" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_watch.xml" value="0.1135" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_detail_movie.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_movie.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_tv_show.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_home.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_main.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_settings.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/fragment_movies.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/fragment_tv_show.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/list_item.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/menu/menu_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail.xml" value="0.30962343096234307" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail_movie.xml" value="0.23492063492063492" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_home.xml" value="0.11322463768115942" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_main.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/fragment_movies.xml" value="0.11322463768115942" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/fragment_tv_show.xml" value="0.11322463768115942" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/items_movie.xml" value="0.21" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/activity_detail_movie.xml" value="0.2797427652733119" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/activity_home.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/activity_settings.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/fragment_movies.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/layout/fragment_tv_show.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro2.0  Finish/app/src/main/res/menu/menu_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donee/app/src/main/res/layout/activity_favorite_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donee/app/src/main/res/layout/activity_favorite_tv_show.xml" value="0.10733695652173914" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donee/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_fav_selector.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_movie.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_tv_show.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/list_item.xml" value="0.10054347826086957" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/menu/menu_detail.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/menu/menu_main.xml" value="0.22" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.13269927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,395 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/xAKMj134XHQVNHLC6rWsccLMenG.jpg",
+      "first_air_date": "2021-10-12",
+      "genre_ids": [
+        10765,
+        35,
+        80
+      ],
+      "id": 90462,
+      "name": "Chucky",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chucky",
+      "overview": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
+      "popularity": 5211.783,
+      "poster_path": "/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg",
+      "vote_average": 8,
+      "vote_count": 1797
+    },
+    {
+      "backdrop_path": "/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+      "first_air_date": "2021-09-17",
+      "genre_ids": [
+        10759,
+        9648,
+        18
+      ],
+      "id": 93405,
+      "name": "Squid Game",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "오징어 게임",
+      "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+      "popularity": 2248.036,
+      "poster_path": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+      "vote_average": 7.8,
+      "vote_count": 8730
+    },
+    {
+      "backdrop_path": "/oC9SgtJTDCEpWnTBtVGoAvjl5hb.jpg",
+      "first_air_date": "2006-09-18",
+      "genre_ids": [
+        10767
+      ],
+      "id": 1991,
+      "name": "Rachael Ray",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Rachael Ray",
+      "overview": "Rachael Ray, also known as The Rachael Ray Show, is an American talk show starring Rachael Ray that debuted in syndication in the United States and Canada on September 18, 2006. It is filmed at Chelsea Television Studios in New York City. The show's 8th season premiered on September 9, 2013, and became the last Harpo show in syndication to switch to HD with a revamped studio. In January 2012, CBS Television Distribution announced a two-year renewal for the show, taking it through the 2013–14 season.",
+      "popularity": 3024.474,
+      "poster_path": "/dsAJhCLYX1fiNRoiiJqR6Up4aJ.jpg",
+      "vote_average": 5.3,
+      "vote_count": 37
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "1972-09-04",
+      "genre_ids": [],
+      "id": 2051,
+      "name": "The Price Is Right",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Price Is Right",
+      "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. ",
+      "popularity": 3034.765,
+      "poster_path": "/6m4uYFAJwkanZXd0n0HUQ0lYHLl.jpg",
+      "vote_average": 6.7,
+      "vote_count": 34
+    },
+    {
+      "backdrop_path": "/auuN4uAvn6KiqyYX5r7BsXrMPNx.jpg",
+      "first_air_date": "2021-10-29",
+      "genre_ids": [
+        18,
+        99
+      ],
+      "id": 113901,
+      "name": "Maradona: Blessed Dream",
+      "origin_country": [
+        "AR"
+      ],
+      "original_language": "es",
+      "original_name": "Maradona: Sueño bendito",
+      "overview": "The controversial life and history of Argentine football legend Diego Armando Maradona. From his beginnings in Villa Fiorito, one of the poorest barrios of Buenos Aires, to achieving glory on the international football league. Earning himself a well-deserved place in history. Living a life strewn with drugs, sex and public scrutiny, he played by his own rules regardless of the consequences. Watch the man who took the world by storm and made his way into the hearts of millions.",
+      "popularity": 1799.009,
+      "poster_path": "/mGPdWEEmfzP7VQBQsXrFt1b1ikQ.jpg",
+      "vote_average": 7.8,
+      "vote_count": 177
+    },
+    {
+      "backdrop_path": "/yfXSvNfF43S0cxpxCEKaU17yZ64.jpg",
+      "first_air_date": "1983-09-19",
+      "genre_ids": [
+        10751
+      ],
+      "id": 2778,
+      "name": "Wheel of Fortune",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Wheel of Fortune",
+      "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+      "popularity": 2348.304,
+      "poster_path": "/2fvAIyVfFHQdhJ7OsJWuMlF7836.jpg",
+      "vote_average": 7.1,
+      "vote_count": 28
+    },
+    {
+      "backdrop_path": "/me99bOsxGQIygLXD0FkKKgjmgLX.jpg",
+      "first_air_date": "1965-11-08",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 881,
+      "name": "Days of Our Lives",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Days of Our Lives",
+      "overview": "The Horton and Brady broods endure the romantic trials of life in Salem, a Midwestern hamlet filled with evil geniuses, star-crossed lovers and a rich family history.",
+      "popularity": 2048.581,
+      "poster_path": "/7Zm7epVFEovMEVLpM6FvrjhaNXn.jpg",
+      "vote_average": 6.3,
+      "vote_count": 82
+    },
+    {
+      "backdrop_path": "/pkOSjcllDSs4WP9i8DGkw9VgF5Q.jpg",
+      "first_air_date": "2015-07-06",
+      "genre_ids": [
+        10764,
+        10751
+      ],
+      "id": 63452,
+      "name": "Wer weiß denn sowas?",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Wer weiß denn sowas?",
+      "overview": "",
+      "popularity": 2010.648,
+      "poster_path": "/abKjah96esLWObidBcWmvKJv61E.jpg",
+      "vote_average": 7.6,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/75XgXxvZ7bYg6sRIBQKDdBlyTFY.jpg",
+      "first_air_date": "2021-08-23",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 133372,
+      "name": "Meet",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "मीत",
+      "overview": "A remake of Zee Sarthak’s Sindura Bindu.\n\nDespite her efforts to provide for her family, Meets disregard for societal gender norms and her nonconformist job as a delivery agent make her an unsuitable girl in the eyes of her family.",
+      "popularity": 1364.565,
+      "poster_path": "/9X7FovF5n8NQUHUPJYYfxRlF3yp.jpg",
+      "vote_average": 3.2,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2021-10-03",
+      "genre_ids": [],
+      "id": 136187,
+      "name": "The Fiery Years of Gao Dai Xia",
+      "origin_country": [],
+      "original_language": "zh",
+      "original_name": "The Fiery Years of Gao Dai Xia",
+      "overview": "The War of Liberation begins in 1945. Dalian is maintaining an apparent peace after receiving assistance from the Soviet Union. However, under this veneer of peace, the undercurrents of war are surging. The Kuomintang reactionaries are ready to move and are looking to disrupt the peace. Guo Dai Xia, being hunted for her part in the Anti-Japanese arson group is appointed by an organization to return to Dalian. There she meets fellow Community party activist Jiazhuang. Despite their different temperaments, the two become reliable comrades and develop feelings for each other. However, the fight against the Kuomintang will not easily end.",
+      "popularity": 822.685,
+      "poster_path": "/hy39yDPXyXcsVQkQjVVlwYRDvnc.jpg",
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/tJ2fGRBKNgEwt9GiCOJ1veKRHXu.jpg",
+      "first_air_date": "2019-09-09",
+      "genre_ids": [
+        10751,
+        10765,
+        18
+      ],
+      "id": 92804,
+      "name": "Alix and the Marvelous",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Alix et les merveilleux",
+      "overview": "Magic, humor and many twists and turns are at the heart of this new season of Alix et les Merveilleux . In this universe where reality meets imagination, the characters continue their incredible adventures.",
+      "popularity": 1573.218,
+      "poster_path": "/38Wm4JiOtajqDOWdjlfesp5T2jE.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/9IsGcpX1p0iU3eRpiTFrWkg5qqj.jpg",
+      "first_air_date": "2021-10-21",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 127235,
+      "name": "Invasion",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Invasion",
+      "overview": "Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
+      "popularity": 1079.865,
+      "poster_path": "/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg",
+      "vote_average": 7.6,
+      "vote_count": 185
+    },
+    {
+      "backdrop_path": "/ccaZ3yyyC6rcMAQrlLZ51FpahNO.jpg",
+      "first_air_date": "2016-01-25",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 1059.522,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "vote_average": 8.5,
+      "vote_count": 10931
+    },
+    {
+      "backdrop_path": "/pLn4lsSBtGUY1whHyCoEJhgziaP.jpg",
+      "first_air_date": "1984-09-10",
+      "genre_ids": [],
+      "id": 2912,
+      "name": "Jeopardy!",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Jeopardy!",
+      "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+      "popularity": 1406.93,
+      "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+      "vote_average": 7,
+      "vote_count": 80
+    },
+    {
+      "backdrop_path": "/fN9lbQkCLHyUZIr9Ba8jPm2F4Hi.jpg",
+      "first_air_date": "2002-09-09",
+      "genre_ids": [
+        10751,
+        10767
+      ],
+      "id": 16359,
+      "name": "Ricardo",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Ricardo",
+      "overview": "A daily French-language cooking show in which Ricardo Larrivée presents accessible recipes alone or accompanied by a guest or a member of his rotating panel of contributors.",
+      "popularity": 989.104,
+      "poster_path": "/my510tqdGLiBhtKzS1LMgXT5mXl.jpg",
+      "vote_average": 2.2,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/wrhMUOxJsJWooqaJdutiXqPvo6w.jpg",
+      "first_air_date": "2021-10-28",
+      "genre_ids": [
+        18,
+        10759
+      ],
+      "id": 135385,
+      "name": "A Thousand Fangs",
+      "origin_country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "original_name": "Mil Colmillos",
+      "overview": "An elite commando is on a mission, deep in the jungle, to find and destroy a powerful and mysterious leader.",
+      "popularity": 885.705,
+      "poster_path": "/tayfazRzkhpyKAhKS6PALXKJUj1.jpg",
+      "vote_average": 7.6,
+      "vote_count": 63
+    },
+    {
+      "backdrop_path": "/1vgdmeW6keP47DQ1tGwfVCdUKqu.jpg",
+      "first_air_date": "2020-10-12",
+      "genre_ids": [
+        35
+      ],
+      "id": 111551,
+      "name": "Haireta mou ton Platano",
+      "origin_country": [
+        "GR"
+      ],
+      "original_language": "el",
+      "original_name": "Χαιρέτα μου τον Πλάτανο",
+      "overview": "The small Greek village of Platanos (Plane Tree) buries the elderly recluse Vangelas and notifies the deceased's estranged children and grandchildren about his death. Vangela's will leaves 3 million euros to his family, but requires them to move to the village and obey certain terms in order to inherit.",
+      "popularity": 1258.726,
+      "poster_path": "/vAu6or1W4G1q7wJxQfDmATtnIg.jpg",
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg",
+      "first_air_date": "2021-09-28",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 128839,
+      "name": "La Brea",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "La Brea",
+      "overview": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+      "popularity": 649.141,
+      "poster_path": "/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg",
+      "vote_average": 7.8,
+      "vote_count": 65
+    },
+    {
+      "backdrop_path": "/9OYu6oDLIidSOocW3JTGtd2Oyqy.jpg",
+      "first_air_date": "2017-09-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "popularity": 916.108,
+      "poster_path": "/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg",
+      "vote_average": 8.6,
+      "vote_count": 9733
+    },
+    {
+      "backdrop_path": "/qXnDtn1KF0nYX6vvCIcQc7XsNib.jpg",
+      "first_air_date": "2021-10-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 135505,
+      "name": "Out Of The Dream",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "梦见狮子",
+      "overview": "It tells the love story between a Peking opera performer and a stage play producer.\n\nPeking opera performer Yu Fei was kicked out by her teacher due to a mistake. Producer Bai Fei Li is looking to cast an actress with a background in Peking opera. As their paths cross, Yu Fei's powerful voice illuminates the stage. However, they lose contact due to an unfortunate death.\n\nWhen they meet again, Yu Fei is in the midst of preparing for drama school as Bai Fei Li faces an unprecedented crisis. Yu Fei begins working part-time for Bai Fei Li while he helps with her reviews for her entrance exam. With the grandparents giving things a little push, the two rekindle their relationship. Yet another problem arises bit this time can they work out their issues?",
+      "popularity": 1219.085,
+      "poster_path": "/fZirczSB0Vtu4zpJ5utwuoWBtPH.jpg",
+      "vote_average": 2,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
