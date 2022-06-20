@@ -47,8 +47,8 @@ class HomeActivity : AppCompatActivity() {
                 startActivity(moveToSettingsActivity)
             }
             R.id.fav_movie -> {
-                val moveToFAvoriteMovieActivity = Intent(this, FavoriteMovieActivity::class.java)
-                startActivity(moveToFAvoriteMovieActivity)
+                val moveToFavoriteMovieActivity = Intent(this, FavoriteMovieActivity::class.java)
+                startActivity(moveToFavoriteMovieActivity)
             }
             R.id.fav_tvShow -> {
                 val moveToFavoriteTvShowActivity = Intent(this, FavoriteTvShowActivity::class.java)

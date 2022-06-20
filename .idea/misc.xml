@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1135" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/btn_style.xml" value="0.154" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1135" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/drawable/ic_watch.xml" value="0.1135" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_detail_movie.xml" value="0.13405797101449277" />
@@ -11,7 +12,7 @@
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_movie.xml" value="0.13405797101449277" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_favorite_tv_show.xml" value="0.264" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_home.xml" value="0.13405797101449277" />
-        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_main.xml" value="0.13405797101449277" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_profile.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/activity_register.xml" value="0.22" />
@@ -20,6 +21,8 @@
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/fragment_tv_show.xml" value="0.13405797101449277" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/layout/list_item.xml" value="0.13405797101449277" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/menu/menu_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.154" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/SubmissionAndroidJetpackPro3.0  finish donees/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.154" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail.xml" value="0.30962343096234307" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail_movie.xml" value="0.23492063492063492" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/SubmissionAndroidJetpackPro/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.1" />
