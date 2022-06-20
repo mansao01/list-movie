@@ -1,10 +1,10 @@
 package com.mansao.submissionandroidjetpackpro.ui.register
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Patterns
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityRegisterBinding
 import com.mansao.submissionandroidjetpackpro.ui.login.LoginActivity
@@ -34,20 +34,23 @@ class RegisterActivity : AppCompatActivity() {
             val email = edtEmail.text.toString().trim()
             val password = edtPassword.text.toString().trim()
 
-            if (email.isEmpty()) {
-                edtEmail.error = "Fill the email"
-                edtEmail.requestFocus()
-            } else if (!Patterns.EMAIL_ADDRESS.matcher(email).matches()) {
-                edtEmail.error = "Email Not Valid"
-                edtEmail.requestFocus()
-            }
-
-            if (password.isEmpty()) {
-                edtPassword.error = "Fill the password"
-                edtPassword.requestFocus()
-            } else if (password.length < 6) {
-                edtPassword.error = "Fill the password"
-                edtPassword.requestFocus()
+            when {
+                email.isEmpty() -> {
+                    edtEmail.error = "Fill the email"
+                    edtEmail.requestFocus()
+                }
+                !Patterns.EMAIL_ADDRESS.matcher(email).matches() -> {
+                    edtEmail.error = "Email Not Valid"
+                    edtEmail.requestFocus()
+                }
+                password.isEmpty() -> {
+                    edtPassword.error = "Fill the password"
+                    edtPassword.requestFocus()
+                }
+                password.length < 6 -> {
+                    edtPassword.error = "Password Not Valid"
+                    edtPassword.requestFocus()
+                }
             }
 
             registerFirebase(email, password)
