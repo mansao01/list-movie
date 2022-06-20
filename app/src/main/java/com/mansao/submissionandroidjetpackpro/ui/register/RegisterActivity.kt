@@ -6,9 +6,7 @@ import android.os.Bundle
 import android.util.Patterns
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
-import com.mansao.submissionandroidjetpackpro.R
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityRegisterBinding
-import com.mansao.submissionandroidjetpackpro.ui.home.HomeActivity
 import com.mansao.submissionandroidjetpackpro.ui.login.LoginActivity
 
 class RegisterActivity : AppCompatActivity() {
@@ -20,10 +18,10 @@ class RegisterActivity : AppCompatActivity() {
         binding = ActivityRegisterBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        supportActionBar?.hide()
-
         auth = FirebaseAuth.getInstance()
 
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.title = null
         binding.apply {
             btnRegister.setOnClickListener {
                 register()
@@ -73,6 +71,11 @@ class RegisterActivity : AppCompatActivity() {
             Toast.makeText(this, e.message, Toast.LENGTH_SHORT).show()
         }
 
+    }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 
     override fun onPause() {
