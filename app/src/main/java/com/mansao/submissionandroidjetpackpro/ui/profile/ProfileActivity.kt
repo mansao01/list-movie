@@ -2,6 +2,8 @@ package com.mansao.submissionandroidjetpackpro.ui.profile
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.google.firebase.auth.ktx.auth
+import com.google.firebase.ktx.Firebase
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityProfileBinding
 
 class ProfileActivity : AppCompatActivity() {
@@ -14,8 +16,10 @@ class ProfileActivity : AppCompatActivity() {
         supportActionBar?.title = "Profile"
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        val email = intent.getStringExtra(EXTRA_PROFILE)
-        binding.tvEmail.text = email
+        val user = Firebase.auth.currentUser
+
+        binding.tvEmail.text = user?.email
+
     }
 
     override fun onSupportNavigateUp(): Boolean {
@@ -23,7 +27,4 @@ class ProfileActivity : AppCompatActivity() {
         return super.onSupportNavigateUp()
     }
 
-    companion object {
-        const val EXTRA_PROFILE = "extra_profile"
-    }
 }

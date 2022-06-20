@@ -4,7 +4,6 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.mansao.submissionandroidjetpackpro.R
@@ -56,9 +55,7 @@ class HomeActivity : AppCompatActivity() {
                 startActivity(moveToFavoriteTvShowActivity)
             }
             R.id.profile -> {
-                val email = intent.getStringExtra(EXTRA_PROFILE)
                 val moveToProfileIntent = Intent(this, ProfileActivity::class.java)
-                moveToProfileIntent.putExtra(ProfileActivity.EXTRA_PROFILE, email)
                 startActivity(moveToProfileIntent)
             }
 
@@ -73,7 +70,4 @@ class HomeActivity : AppCompatActivity() {
         return true
     }
 
-    companion object {
-        const val EXTRA_PROFILE = "extra_profile"
-    }
 }

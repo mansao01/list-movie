@@ -68,7 +68,6 @@ class LoginActivity : AppCompatActivity() {
                 .addOnCompleteListener {
                     if (it.isSuccessful) {
                         val intent = Intent(this, HomeActivity::class.java)
-                        intent.putExtra(HomeActivity.EXTRA_PROFILE, email)
                         startActivity(intent)
                         Toast.makeText(this, "Hello $email", Toast.LENGTH_SHORT).show()
                     } else {
