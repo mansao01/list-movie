@@ -53,7 +53,8 @@ class DetailTvShowActivity : AppCompatActivity() {
     private fun populateTvShow(tvShowEntity: TvShowEntity) {
         binding.apply {
             tvTitle.text = tvShowEntity.showTitle
-            tvYear.text = StringBuilder("Released : ").append("${tvShowEntity.showReleased}")
+            tvYear.text =
+                StringBuilder("${resources.getString(R.string.released)} : ").append("${tvShowEntity.showReleased}")
             tvDescription.text = tvShowEntity.showDescription
             Glide.with(this@DetailTvShowActivity)
                 .load("https://image.tmdb.org/t/p/w500/${tvShowEntity.showPoster}")

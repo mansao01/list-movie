@@ -6,6 +6,7 @@ import android.util.Patterns
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
+import com.mansao.submissionandroidjetpackpro.R
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityLoginBinding
 import com.mansao.submissionandroidjetpackpro.ui.home.HomeActivity
 import com.mansao.submissionandroidjetpackpro.ui.register.RegisterActivity
@@ -28,7 +29,6 @@ class LoginActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-
         binding.btnLogin.setOnClickListener {
             login()
         }
@@ -42,19 +42,19 @@ class LoginActivity : AppCompatActivity() {
 
             when {
                 email.isEmpty() -> {
-                    edtEmail.error = "Fill the email"
+                    edtEmail.error = resources.getString(R.string.fill_email)
                     edtEmail.requestFocus()
                 }
                 !Patterns.EMAIL_ADDRESS.matcher(email).matches() -> {
-                    edtEmail.error = "Email Not Valid"
+                    edtEmail.error = resources.getString(R.string.not_valid_email)
                     edtEmail.requestFocus()
                 }
                 password.isEmpty() -> {
-                    edtPassword.error = "Fill the password"
+                    edtPassword.error = resources.getString(R.string.fill_password)
                     edtPassword.requestFocus()
                 }
                 password.length < 6 -> {
-                    edtPassword.error = "Password Not Valid"
+                    edtPassword.error = resources.getString(R.string.not_valid_password)
                     edtPassword.requestFocus()
                 }
             }
@@ -70,9 +70,14 @@ class LoginActivity : AppCompatActivity() {
                     if (it.isSuccessful) {
                         val intent = Intent(this, HomeActivity::class.java)
                         startActivity(intent)
-                        Toast.makeText(this, "Hello $email", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(
+                            this,
+                            StringBuilder("${resources.getString(R.string.hello)} : ").append(email),
+                            Toast.LENGTH_SHORT
+                        ).show()
+
                     } else {
-                        Toast.makeText(this, "Login Failed", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this, "${it.exception?.message}", Toast.LENGTH_SHORT).show()
                     }
                 }
         } catch (e: Exception) {

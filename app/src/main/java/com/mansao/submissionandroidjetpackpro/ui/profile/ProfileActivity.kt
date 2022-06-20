@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import com.mansao.submissionandroidjetpackpro.R
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityProfileBinding
 
 class ProfileActivity : AppCompatActivity() {
@@ -13,7 +14,7 @@ class ProfileActivity : AppCompatActivity() {
         binding = ActivityProfileBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        supportActionBar?.title = "Profile"
+        supportActionBar?.title = resources.getString(R.string.profile)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val user = Firebase.auth.currentUser

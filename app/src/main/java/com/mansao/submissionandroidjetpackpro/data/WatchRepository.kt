@@ -40,16 +40,14 @@ class WatchRepository private constructor(
             override fun saveCallResult(data: List<ResultsMovieItem>) {
                 val listItem = ArrayList<MovieEntity>()
                 for (response in data) {
-                    val item = response.id.let {
-                        MovieEntity(
-                            it,
-                            response.title,
-                            response.overview,
-                            response.releaseDate,
-                            response.posterPath,
-                            false
-                        )
-                    }
+                    val item = MovieEntity(
+                        response.id,
+                        response.title,
+                        response.overview,
+                        response.releaseDate,
+                        response.posterPath,
+                        false
+                    )
                     item.let { listItem.add(it) }
                 }
                 localDataSource.insertMovie(listItem)

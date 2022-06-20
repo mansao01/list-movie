@@ -1,11 +1,11 @@
 package com.mansao.submissionandroidjetpackpro.ui.detailmovie
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
@@ -14,7 +14,6 @@ import com.mansao.submissionandroidjetpackpro.data.source.local.entity.MovieEnti
 import com.mansao.submissionandroidjetpackpro.databinding.ActivityDetailMovieBinding
 import com.mansao.submissionandroidjetpackpro.viewmodel.ViewModelFactory
 import com.mansao.submissionandroidjetpackpro.vo.Status
-import java.lang.StringBuilder
 
 class DetailMovieActivity : AppCompatActivity() {
 
@@ -58,7 +57,8 @@ class DetailMovieActivity : AppCompatActivity() {
     private fun populateMovie(movieEntity: MovieEntity) {
         binding.apply {
             tvTitle.text = movieEntity.movieTitle
-            tvYear.text = StringBuilder("Released : ").append("${movieEntity.movieReleased}")
+            tvYear.text =
+                StringBuilder("${resources.getString(R.string.released)} : ").append("${movieEntity.movieReleased}")
             tvDescription.text = movieEntity.movieDescription
             Glide.with(this@DetailMovieActivity)
                 .load("https://image.tmdb.org/t/p/w500/${movieEntity.moviePoster}")
@@ -85,21 +85,22 @@ class DetailMovieActivity : AppCompatActivity() {
         return super.onOptionsItemSelected(item)
     }
 
-    private fun setFavoriteState(state: Boolean){
-        if (menu == null){
+    private fun setFavoriteState(state: Boolean) {
+        if (menu == null) {
             val menuItem = menu?.findItem(R.id.action_favorite)
-            if (state){
+            if (state) {
                 menuItem?.icon = ContextCompat.getDrawable(this, R.drawable.ic_baseline_favorite_24)
-            }else{
-                menuItem?.icon = ContextCompat.getDrawable(this, R.drawable.ic_baseline_favorite_border_24)
+            } else {
+                menuItem?.icon =
+                    ContextCompat.getDrawable(this, R.drawable.ic_baseline_favorite_border_24)
             }
         }
     }
 
-    private fun toast(state: Boolean){
-        if (state){
+    private fun toast(state: Boolean) {
+        if (state) {
             Toast.makeText(this, "Added", Toast.LENGTH_SHORT).show()
-        }else{
+        } else {
             Toast.makeText(this, "Deleted", Toast.LENGTH_SHORT).show()
         }
     }
