@@ -21,15 +21,41 @@
     </androidx.recyclerview.widget.RecyclerView>
 
 
-    <ProgressBar
-        android:id="@+id/progress_bar"
-        android:layout_width="wrap_content"
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="?android:attr/progressBarStyle"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <include layout="@layout/item_shimmer" />
+
+                <include layout="@layout/item_shimmer" />
+
+                <include layout="@layout/item_shimmer" />
+
+                <include layout="@layout/item_shimmer" />
+
+                <include layout="@layout/item_shimmer" />
+            </LinearLayout>
+        </ScrollView>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+
+
 
 
 
