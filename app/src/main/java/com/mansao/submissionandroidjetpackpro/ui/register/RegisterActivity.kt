@@ -90,4 +90,6 @@ class RegisterActivity : AppCompatActivity() {
         super.onPause()
         auth.signOut()
     }
+
+
 }

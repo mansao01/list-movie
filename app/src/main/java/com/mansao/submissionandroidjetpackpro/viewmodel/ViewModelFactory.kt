@@ -16,7 +16,7 @@ class ViewModelFactory private constructor(private val mWatchRepository: WatchRe
     ViewModelProvider.NewInstanceFactory() {
 
     @Suppress("UNCHECKED_CAST")
-    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+    override fun <T : ViewModel> create(modelClass: Class<T>): T {
         return when{
             modelClass.isAssignableFrom(MovieViewModel::class.java) ->{
                 MovieViewModel(mWatchRepository) as T
